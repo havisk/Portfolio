@@ -1,9 +1,11 @@
 .email{
   font-size: 1em;
   color: white;
+  text-shadow: 0px 1px 5px black;
 }
 .www{
   color: white;
+  text-shadow: 0px 1px 5px black;
 }
 .bill{
   word-spacing: 3em;
